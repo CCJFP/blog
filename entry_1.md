@@ -1,4 +1,4 @@
 # Entry 1
 
-This is my first blog entry!
+I've just learned how to commit changes in Git!
 
