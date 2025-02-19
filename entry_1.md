@@ -1,4 +1,3 @@
 # Entry 1
 
-I've just learned how to commit changes in Git!
-
+This is my first blog entry, I decided to change what was here as Ben's tutorial had me telling lies.
