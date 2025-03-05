@@ -9,12 +9,12 @@ Here's a picture to say I am sorry.
 
 ## Here's the genetic relationship between hyenas and housecats
 
-Hyenas are classified in the suborder *Feliformia* (cat-like carnivores), making them more closely related to cats than to dogs:
+Hyenas are classified in the suborder *Feliformia* (cat-like carnivores), making them more closely related to cats than to dogs
 
 ```mermaid
 flowchart TB
-    A((Carnivora)) --> B{Feliformia (Cat-like)}
-    B --> C[Family: Hyaenidae (Hyenas)]
-    B --> D[Family: Felidae (Cats)]
-    D --> E[Housecats (Felis catus)]
+    A((Carnivora)) --> B{"Feliformia (Cat-like)"}
+    B --> C["Family: Hyaenidae (Hyenas)"]
+    B --> D["Family: Felidae (Cats)"]
+    D --> E["Housecats (Felis catus)"]
 ```
